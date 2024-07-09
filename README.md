@@ -1,6 +1,6 @@
 # Stroke-Prediction-Analysis
 A web based application to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relevant information about the patient.
-A perfect project to learn Data Analytics and apply Machine Learning algorithms (Logistic Regression, Random Forest, Decision Tree, KNN and SVM) to predict the outlet production sales.
+A perfect project to learn Data Analytics and apply Machine Learning algorithms (Logistic Regression, Random Forest, Decision Tree, KNN and SVM) to predict stroke.
 
 **Dataset Link**: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
